@@ -1,0 +1,2 @@
+# Safelink-uy
+Javascript Safelink
